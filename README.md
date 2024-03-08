@@ -13,16 +13,5 @@ Classes:
 
 Test: https://replit.com/@9709097/TypingTest#main.py
 
-Diagram: 
-+-------------------+
-|       Typing      |
-+-------------------+
-| - script: str     |
-+-------------------+
-| + __init__(script: str) |
-| + display_script() -> None |
-| + check_typing() -> int |
-| + main() -> None |
-| + calculate_wpm(elapsed_time: float) -> int |
-| + calculate_accuracy(errors: int) -> float |
-+-------------------+
+Diagram: <img width="347" alt="Screenshot 2024-03-08 at 12 53 07 PM" src="https://github.com/Collinvans/CSProject/assets/158333166/78610f6f-e31e-40de-b702-f93f2cf49002">
+
